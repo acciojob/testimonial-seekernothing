@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+
+#container{
+padding:20px;
+background-color: #f5f5f5;
+}
+#first{
+	
+	border:1px solid #ddd;
+	padding:20px;
+	background-color:white;
+	margin-bottom:30px;
+	
+}
+
+#author{
+	text-align:right;
+	margin-top:2px;
+	font-weight:bold;
+}
+
+#second{
+	border:1px solid #ddd;
+	background-color:white;
+	padding:20px;
+}
